@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Trang web đầu tiên </title>
+    </head>
+    <body>
+        <h1>CHÀO BẠN ĐẾN VỚI TRANG WEB CỦA TÔI</h1>
+        <h2>MỜI BẠN XEM VIDEO trước khi vào trang web của chúng tôi</h2>
+        <video src="Videos/y2meta.net_360p-vi-sao-moi-18-doi-muoi-da-hoi.mp4"autoplay controls width="500px" height="500px"></video>
+        <h2>Tự tin chữa khỏi bệnh trọc đầu cho bạn</h2>
+        <h2>Không hết trọc vẫn lấy tiền</h2>
+        <img src="/Images/download.jpg" width="400">
+        <hr/>
+        <h2>Một số khách hàng đã được chữa khổi bệnh trọc đầu sau khi dùng thuốc của chúng tôi</h2>
+        <h2>Trước khi sử dụng thuốc: Đau đớn, gục ngã</h2>
+        <img src="Images/z6370861373702_e62e998f486f4570c39c66c36b81e4b3.jpg" width="400">
+        <h2>Sau khi sử dụng: Xinh đẹp top 1 sever sql</h2>
+        <img src="Images/z6375804152677_b15b5a9fef652aa61b04751d84c5b738.jpg" width="1000">
+    </body>
+</html>
